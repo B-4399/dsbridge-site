@@ -88,7 +88,7 @@ nav a:hover{
     margin-left:35rem;
     color:#152649;
     width: 40vw;
-    height:35vh;
+    height:40vh;
 }
 .card h3{
     margin-bottom: 0.5rem;
@@ -112,4 +112,5 @@ footer{
     color:#152649;
     text-align: center;
     padding: 1rem;
+
 }
