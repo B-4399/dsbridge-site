@@ -84,7 +84,7 @@ nav a:hover{
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin-top:3rem;
+    margin-top:2rem;
     margin-left:35rem;
     color:#152649;
     width: 35vw;
@@ -94,10 +94,11 @@ nav a:hover{
     margin-bottom: 0.5rem;
 }
 .info h3{
-    padding-bottom:1rem;
+    padding-bottom:0.5rem;
 }
 .about{
     background: #ebe9ff;
+    border-radius:5px;
     padding: 3rem 2rem;
     text-align: center;
     color:#152649;
@@ -114,6 +115,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
