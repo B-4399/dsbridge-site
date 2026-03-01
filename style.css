@@ -81,7 +81,7 @@ nav a:hover{
 }
 .info{
    background: #CDDA32;
-    padding:3rem;
+    padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top:3rem;
@@ -94,7 +94,7 @@ nav a:hover{
     margin-bottom: 0.5rem;
 }
 .info h3{
-    padding-bottom:2rem;
+    padding-bottom:1rem;
 }
 .about{
     background: #ebe9ff;
@@ -114,6 +114,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
