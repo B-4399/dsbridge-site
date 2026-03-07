@@ -116,14 +116,18 @@ nav a:hover{
     color:#152649;
     font-size: large;
 }
-.policy_term{
+.policy_terms{
    background: #ebe9ff;
     padding:1.3rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:10px;
     color:#152649;
-}  
+} 
+.policy_terms h2{
+    text-align:center;
+    margin-bottom:0.5rem;
+    padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
     text-align: center;
@@ -135,6 +139,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
