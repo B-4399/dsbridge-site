@@ -62,6 +62,8 @@ nav a:hover{
 .services{
     padding:3rem 2rem;
     text-align: center;
+    width: 25vw;
+    height:30vh;
 }
 .services h2{
     margin-bottom: 2rem;
@@ -139,6 +141,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
