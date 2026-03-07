@@ -117,7 +117,8 @@ nav a:hover{
     text-align:center;
     padding-bottom:0.5rem;
 .contact{
-    padding: 3rem 3rem;
+    padding: 3rem 2rem;
+    margin-right:4rem;
     text-align: center;
     content-align:center;
     color:#152649;
@@ -128,6 +129,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
