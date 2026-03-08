@@ -81,13 +81,13 @@ nav a:hover{
     color:#fff;
 }
 .info{
-   background: #FFFFE0;
+   background: #152649;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top:2rem;
-    margin-left:35rem;
-    color:#152649;
+    margin-left:30rem;
+    color:#fff;
     width: 35vw;
     height:40vh;
 }
@@ -97,7 +97,7 @@ nav a:hover{
     gap:1.5rem;
 }
 .service{
-    background:  #b5cae9;
+    background: linear-gradient(to right, #CDDA32, #133c8898);;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -134,7 +134,7 @@ nav a:hover{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin:1rem 4rem;
+    margin:1rem 30rem;
     text-align: center;
     color:#152649;
 }
@@ -144,6 +144,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
