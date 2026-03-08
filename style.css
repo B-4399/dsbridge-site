@@ -94,6 +94,17 @@ nav a:hover{
     grid-template-columns: repeat(autofit, minmax(220px, 1fr));
     gap:2rem;
 }
+.service{
+     background: #CDDA32;
+    padding:2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-top:2rem;
+    margin-left:35rem;
+    color:#152649;
+    width: 25vw;
+    height:30vh;
+}
     
 .card h3{
     margin-bottom: 0.5rem;
@@ -132,6 +143,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
