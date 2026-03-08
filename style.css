@@ -73,7 +73,7 @@ nav a:hover{
     gap:1.5rem;
 }
 .card {
-    background: #072A6C;
+    background: #152649;
     padding:1.3rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -95,7 +95,7 @@ nav a:hover{
     gap:2rem;
 }
 .service{
-    background:  #133c8898;
+    background:  #b5cae9;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -143,6 +143,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
