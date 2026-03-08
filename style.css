@@ -86,7 +86,7 @@ nav a:hover{
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top:2rem;
-    margin-left:20rem;
+    margin-left:30rem;
     color:#fff;
     width: 35vw;
     height:40vh;
@@ -95,14 +95,14 @@ nav a:hover{
      display:grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:1.5rem;
+    margin:20rem;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin-top:2rem;
-    margin-left:25rem;
+    margin:2rem 30rem ;
     color:#152649;
     width: 30vw;
     height:35vh;
@@ -215,7 +215,7 @@ footer{
        }
 .cards{
     display:grid;
-    grid-template-columns: repeat(autofit, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:1.5rem;
       }
 .card {
@@ -295,6 +295,7 @@ footer{
 
 
         
+
 
 
 
