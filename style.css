@@ -73,12 +73,12 @@ nav a:hover{
     gap:1.5rem;
 }
 .card {
-    background: #CDDA32;
+    background: #072A6C;
     padding:1.3rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:10px;
-    color:#152649;
+    color:#fff;
 }
 .info{
    background: #CDDA32;
@@ -95,15 +95,15 @@ nav a:hover{
     gap:2rem;
 }
 .service{
-     background: #CDDA32;
+    background:  #133c8898;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top:2rem;
     margin-left:35rem;
     color:#152649;
-    width: 25vw;
-    height:30vh;
+    width: 30vw;
+    height:35vh;
 }
     
 .card h3{
@@ -143,6 +143,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
