@@ -69,8 +69,7 @@ nav a:hover{
 }
 .cards{
     display:grid;
-    grid-template-columns: repeat(2, minmax(220px, 1fr));
-    grid-template-rows: repeat(2, minmax(220px, 1fr));
+    grid-template-columns: repeat(autofit, minmax(220px, 1fr));
     gap:1.5rem;
 }
 .card {
@@ -92,8 +91,8 @@ nav a:hover{
     width: 35vw;
     height:40vh;
     display:grid;
-    grid-template-columns: repeat(2, minmax(220px, 1fr));
-    gap:1.5rem;
+    grid-template-columns: repeat(autofit, minmax(220px, 1fr));
+    gap:2rem;
 }
     
 .card h3{
@@ -133,6 +132,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
