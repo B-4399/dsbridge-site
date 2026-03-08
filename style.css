@@ -90,9 +90,11 @@ nav a:hover{
     color:#152649;
     width: 35vw;
     height:40vh;
-    display:grid;
+}
+.infos{
+     display:grid;
     grid-template-columns: repeat(autofit, minmax(220px, 1fr));
-    gap:2rem;
+    gap:1.5rem;
 }
 .service{
     background:  #b5cae9;
@@ -132,9 +134,8 @@ nav a:hover{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin-right:4rem;
+    margin:1rem 4rem;
     text-align: center;
-    content-align:center;
     color:#152649;
 }
 footer{
@@ -143,6 +144,7 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
 
 
 
