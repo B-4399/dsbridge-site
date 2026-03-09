@@ -73,12 +73,12 @@ nav a:hover{
     gap:1.5rem;
 }
 .card {
-    background: #EBF578;
+    background: #5b5b5b;
     padding:1.3rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:10px;
-    color:#196950;
+    color:#EBF578;
 }
 .info{
    background: #D5E6AB;
@@ -95,7 +95,7 @@ nav a:hover{
      display:grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:2rem;
-    margin:3rem 20rem;
+    margin:3rem auto;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -134,7 +134,7 @@ nav a:hover{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin:3rem 20rem;
+    margin:3rem auto;
     text-align: center;
     color:#152649;
 }
@@ -219,12 +219,12 @@ footer{
     gap:1.5rem;
       }
 .card {
-    background: #152649;
+    background: #999999;
     padding:1.3rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:10px;
-    color:#fff;
+    color:#EBF578;
      }
 .info{
    background: #152649;
@@ -242,7 +242,7 @@ footer{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:1.5rem;
     align-items:center;
-    margin:2rem 10rem
+    margin:2rem auto;
     
       }
 .service{
@@ -283,7 +283,7 @@ footer{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin:2rem 10rem;
+    margin:2rem auto;
     text-align: center;
     color:#152649;
        }
@@ -298,6 +298,7 @@ footer{
 
 
         
+
 
 
 
