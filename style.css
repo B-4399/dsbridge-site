@@ -96,6 +96,8 @@ nav a:hover{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:2rem;
     margin-left:10rem;
+    max-width:70vw;
+    hieght:45vh;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -137,6 +139,8 @@ nav a:hover{
     margin-right:25rem;
     text-align: center;
     color:#152649;
+    border:5px;
+    
 }
 footer{
     background: #CDDA32;
@@ -298,6 +302,7 @@ footer{
 
 
         
+
 
 
 
