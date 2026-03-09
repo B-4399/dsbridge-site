@@ -81,7 +81,9 @@ nav a:hover{
     color:#EBF578;
 }
 .info{
-   background: #D5E6AB;
+    display:flex;
+    justify-content:center;
+    background: #D5E6AB;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -96,8 +98,6 @@ nav a:hover{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:2rem;
     margin-left:10rem;
-    max-width:70vw;
-    hieght:45vh;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -135,8 +135,9 @@ nav a:hover{
     text-align:center;
     padding-bottom:0.5rem;
 .contact{
+    display:flex;
+    justify-content:center;
     padding: 3rem 2rem;
-    margin-right:25rem;
     text-align: center;
     color:#152649;
     border:5px;
@@ -302,6 +303,7 @@ footer{
 
 
         
+
 
 
 
