@@ -95,7 +95,7 @@ nav a:hover{
      display:grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:2rem;
-    margin:3rem auto;
+    margin-left:10rem;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -134,7 +134,7 @@ nav a:hover{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin:3rem auto;
+    margin-right:25rem;
     text-align: center;
     color:#152649;
 }
@@ -242,7 +242,7 @@ footer{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:1.5rem;
     align-items:center;
-    margin:2rem auto;
+    margin-left:10rem;
     
       }
 .service{
@@ -283,7 +283,7 @@ footer{
     padding-bottom:0.5rem;
 .contact{
     padding: 3rem 2rem;
-    margin:2rem auto;
+    margin-right:10rem;
     text-align: center;
     color:#152649;
        }
@@ -298,6 +298,7 @@ footer{
 
 
         
+
 
 
 
