@@ -240,6 +240,7 @@ footer{
      display:grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:1.5rem;
+    align-items:center;
       }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -294,6 +295,7 @@ footer{
 
 
         
+
 
 
 
