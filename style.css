@@ -81,8 +81,6 @@ nav a:hover{
     color:#EBF578;
 }
 .info{
-    display:flex;
-    justify-content:center;
     background: #D5E6AB;
     padding:2.5rem;
     border-radius: 10px;
@@ -98,6 +96,7 @@ nav a:hover{
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap:2rem;
     margin-left:10rem;
+    justify-content: center;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -303,6 +302,7 @@ footer{
 
 
         
+
 
 
 
