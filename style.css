@@ -81,10 +81,6 @@ nav a:hover{
     color:#EBF578;
 }
 .info{
-    grid-area:infos;
-    display:grid;
-    grid-template-column:repeat(2, 1fr);
-    gap:3rem;
     background: #D5E6AB;
     padding:2.5rem;
     border-radius: 10px;
@@ -94,6 +90,12 @@ nav a:hover{
     width: 35vw;
     height:40vh;
 }
+.infos{
+     display:grid;
+    grid-template-column:repeat(2, 1fr);
+    gap:3rem;
+    margin:auto;
+    
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -131,7 +133,7 @@ nav a:hover{
     text-align:center;
     padding-bottom:0.5rem;
 .contact{
-    justify-self:center;
+    justify-content:center;
     width:60%;
     padding: 3rem 2rem;
     text-align: center;
@@ -298,6 +300,7 @@ footer{
 
 
         
+
 
 
 
