@@ -132,11 +132,11 @@ nav a:hover{
 .policy_terms h2{
     text-align:center;
     padding-bottom:0.5rem;
-.contact{
-    width:60%;
+#contact{
+    width:60%
     padding: 3rem 2rem;
     text-align: center;
-    margin:4rem auto;
+    margin:3rem 31.5rem;
     color:#152649;
 }
 footer{
@@ -299,6 +299,7 @@ footer{
 
 
         
+
 
 
 
