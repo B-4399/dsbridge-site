@@ -81,23 +81,19 @@ nav a:hover{
     color:#EBF578;
 }
 .info{
+    grid-area:infos;
+    display:grid;
+    grid-template-column:repeat(2, 1fr);
+    gap:1.5rem;
     background: #D5E6AB;
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin-top:2rem;
+    margin:auto;
     color:#193A3C;
     width: 35vw;
     height:40vh;
 }
-.infos{
-     display:grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap:2rem;
-    margin:3rem auto;
-    border:5px;
-    border-radius:10px;
-    
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);;
@@ -304,6 +300,7 @@ footer{
 
 
         
+
 
 
 
