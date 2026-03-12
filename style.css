@@ -134,7 +134,7 @@ nav a:hover{
     padding-bottom:0.5rem;
 .contact{
     width:60%
-    padding: 3rem 2rem;
+    padding: 1rem;
     text-align: center;
     margin:3rem 31.5rem;
     color:#152649;
@@ -144,6 +144,7 @@ footer{
     color:#152649;
     text-align: center;
     padding: 1rem;
+    margin:2rem 31.5rem;
 }
 @media screen (max-width: 25rem){
       *{
@@ -299,6 +300,7 @@ footer{
 
 
         
+
 
 
 
