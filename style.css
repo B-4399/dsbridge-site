@@ -133,8 +133,6 @@ nav a:hover{
     text-align:center;
     padding-bottom:0.5rem;
 .contact{
-    display:flex;
-    justify-content:center;
     width:60%;
     padding: 3rem 2rem;
     text-align: center;
@@ -301,6 +299,7 @@ footer{
 
 
         
+
 
 
 
