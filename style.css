@@ -102,7 +102,7 @@ nav a:hover{
     padding:2.5rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin:2rem 30rem ;
+    margin:2rem 35rem ;
     color:#152649;
     width: 30vw;
     height:35vh;
@@ -133,6 +133,7 @@ nav a:hover{
     text-align:center;
     padding-bottom:0.5rem;
 .contact{
+    display:flex;
     justify-content:center;
     width:60%;
     padding: 3rem 2rem;
@@ -300,6 +301,7 @@ footer{
 
 
         
+
 
 
 
