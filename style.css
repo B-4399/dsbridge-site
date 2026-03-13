@@ -160,6 +160,7 @@ footer{
     }
     header{
     background: #CDDA32;
+    flex-direction:column;
     color:#152649;
     display:flex;
     justify-content: space-around;
@@ -180,6 +181,7 @@ footer{
     nav a{
     color:#152649;
     text-decoration: none;
+    margin-top:10px
     }
     nav a:hover{
     text-decoration: underline;
@@ -231,29 +233,29 @@ footer{
     }
     .info{
     background: #D5E6AB;
-    padding:1.25rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:auto;
     color:#193A3C;
-    width: 35vw;
-    height:40vh;
+    width: 90%;
+    word-wrap:break-word;
+    line-height:1.5;
     }
     .infos{
-     display:grid;
-    grid-template-column:repeat(2, 1fr);
-    gap:3rem;
+    display:grid;
+    grid-template-column:repeat(auto-fit, minmax(250px, 1fr);
+    gap:20px;
     margin:auto;
+    width:90%;
     }
     .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);
-    padding:1.25rem;
+    text-align:center;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin:1rem 16rem;
+    margin:30px auto;
     color:#152649;
-    width: 30vw;
-    height:35vh;
+    width: 90%;
     }
     
     .card h3{
@@ -301,6 +303,7 @@ footer{
 
 
         
+
 
 
 
