@@ -146,9 +146,9 @@ footer{
     padding: 1rem;
     margin:2rem 31.5rem;
 }
-@media  (max-width <= 480px){
-
+@media  (max-width: 480px){
     *{
+        
     margin:0;
     padding:0;
     box-sizing: border-box;
@@ -171,7 +171,7 @@ footer{
     z-index: 1000;
     }
     .logo{
-    font-size: 0.75rem;
+    font-size: 1.1rem;
     font-weight: bold;
     } 
     nav li{
@@ -303,6 +303,7 @@ footer{
 
 
         
+
 
 
 
