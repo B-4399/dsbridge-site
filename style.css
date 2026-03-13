@@ -138,11 +138,18 @@ nav a:hover{
 .policy_terms h2{
     margin-top:20px;
 .contact{
+    max-width:800px;
+    margin:60px auto;
+    background:#eef3fa;
+    border-radius:10px;
     padding: 60px 20px;
     text-align: center;
 .contact a{
     color:#152649;
     text-decoration:none;
+    font-weight:600;
+    margin:10px 0;
+    display:inline-block;
 }
 .contact p{
     margin: 10px 0;
