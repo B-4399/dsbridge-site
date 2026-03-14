@@ -197,19 +197,20 @@ nav ul{
 .cards{
     grid-template-columns: 1fr;
 }
+.infos{
+    grid-template-column: 1fr;
+}
 .info{
     background: #D5E6AB;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     color:#193A3C;
-    font-size:small;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     color:#152649;
-    font-size:small;
 }
 }
     
