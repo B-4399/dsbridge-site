@@ -134,6 +134,8 @@ nav a:hover{
     max-width:900px;
     border-radius: 10px;
     margin:auto;
+    max-width:1250px;
+    background:#cbd6e2
 } 
 .policy_terms h2{
     margin-top:20px;
