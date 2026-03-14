@@ -131,7 +131,7 @@ nav a:hover{
 }
 .policy_terms{
     padding:50px 35px;
-    max-width:900px;
+    max-width:1000px;
     border-radius: 10px;
     margin:40x auto;
     background:#cbd6e2
@@ -206,7 +206,17 @@ nav ul{
 }
 .infos{
     grid-template-columns:1fr;
-}  
+}
+.info{
+    background: #D5E6AB;
+    padding:2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin:auto;
+    color:#193A3C;
+    width: 92%;
+    height:40vh;
+}
 }
     
      
