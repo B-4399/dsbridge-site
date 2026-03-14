@@ -141,13 +141,11 @@ nav a:hover{
     margin-top:20px;
 .contacts{
      background: #D5E6AB;
-    padding:2.5rem;
+    padding:2rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin:auto;
     color:#193A3C;
-    width: 35vw;
-    height:40vh;
 }
 .contacts a{
     color:#152649;
