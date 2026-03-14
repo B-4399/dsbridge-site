@@ -194,23 +194,19 @@ nav ul{
 .cards{
     grid-template-columns: 1fr;
 }
-.infos{
-    grid-template-columns:1fr;
-}
 .info{
     background: #D5E6AB;
-    padding:25px;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     color:#193A3C;
-    font-size:16px;
+    font-size:small;
 }
 .service{
     background: linear-gradient(to left, #CDDA32, #133c8898);
-    padding:25px;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     color:#152649;
+    font-size:small;
 }
 }
     
