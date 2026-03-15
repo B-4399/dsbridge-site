@@ -71,7 +71,7 @@ nav a:hover{
 }
 .cards{
     display:grid;
-    grid-template-columns: repeat(autofit, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap:25px;
     max-width:1200px;
     margin:40px auto;
