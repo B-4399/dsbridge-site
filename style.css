@@ -140,18 +140,28 @@ nav a:hover{
 .policy_terms h2{
     margin-top:20px;
 }
-.contacts{
-     background: #D5E6AB;
+.contact-container{
     padding:2rem;
     border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border:1px solid #ddd;
     margin:auto;
-    color:#193A3C;
+    max-width: 400px;
 }
-.contacts a{
-    color:#152649;
-    text-decoration:none;
-    font-weight:600;
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
 footer{
     background: #CDDA32;
@@ -220,10 +230,21 @@ padding:40px 15px;
 padding:30px 15px;
 }
 
-.contacts{
+.contact-container{
+max-width:95%;
+padding:15px;
+margin: 15px auto;
+border-radius:8px;
+}
+input, textarea{
+width: 100%;
+font-size: 16px;
+padding: 12px;
+}
+button{
 width:100%;
-padding:20px;
-text-align:center;
+padding:12px;
+font-size: 16px;
 }
 
 footer{
