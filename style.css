@@ -157,6 +157,7 @@ input, textarea{
 }
 button{
     background-color: #CDDA32;
+    width:100px;
     color: #152649;
     padding: 10px;
     border: none;
