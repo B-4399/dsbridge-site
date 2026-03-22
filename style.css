@@ -141,11 +141,11 @@ nav a:hover{
     margin-top:20px;
 }
 .contact-container{
+    max-width: 400px;
     padding:2rem;
     border-radius: 10px;
     border:1px solid #ddd;
-    margin:auto;
-    max-width: 400px;
+    margin:2rem auto;
 }
 input, textarea{
     width: 100%;
@@ -156,8 +156,8 @@ input, textarea{
     border: 1px solid #ccc;
 }
 button{
-    background-color: black;
-    color: white;
+    background-color: #CDDA32;
+    color: #152649;
     padding: 10px;
     border: none;
     border-radius: 5px;
