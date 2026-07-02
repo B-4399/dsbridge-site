@@ -175,12 +175,11 @@ footer{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap:15px; 
+    gap:10px; 
 }
 .result img{
     max-width: 1800%;
     height: 450px;
-    border-radius:12px;
 }
 @media (max-width:480px){
 
