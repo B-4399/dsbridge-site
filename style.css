@@ -173,13 +173,12 @@ footer{
 }
 .result{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px  
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap:25px; 
 }
 .result img{
-    max-width: 100%;
+    max-width: 1200%;
     height: 250px;
-    place-content:center;
     border-radius:12px;
     border: 10px;
 }
