@@ -178,8 +178,8 @@ footer{
     gap:15px; 
 }
 .result img{
-    max-width: 1300%;
-    height: 350px;
+    max-width: 1800%;
+    height: 450px;
     border-radius:12px;
 }
 @media (max-width:480px){
