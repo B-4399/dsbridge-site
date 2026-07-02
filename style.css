@@ -175,7 +175,7 @@ footer{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap:25px; 
+    gap:15px; 
 }
 .result img{
     max-width: 1300%;
@@ -196,7 +196,7 @@ margin-top:10px;
 }
 .result{
 grid-template-columns: 1fr;
-gap:25px;
+gap:15px;
 }
 .result img{
 height:auto;
