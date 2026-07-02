@@ -171,14 +171,15 @@ footer{
     padding: 1rem;
     margin-top: 40px;
 }
-.result img{
-    max-width: 25%;
-    height: 150px;
-}
 .result{
     display: grid;
     grid-template-column: repeat(3, 1fr);
-    gap: 15px;
+    gap: 10px;
+}
+.result img{
+    max-width: 100%;
+    height: 250px;
+    place-content:center;
 }
 @media (max-width:480px){
 
@@ -197,7 +198,9 @@ grid-template-columns: 1fr;
 }
 .result img{
 height:auto;
-width:25%;
+max-width:100%;
+gap: 10px;
+place-content:center;
 }
 
 .hero{
